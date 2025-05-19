@@ -64,7 +64,6 @@ void tampil(){
         printf ("Masih Kosong \n");
     }
 }
-
 void main (){
     system("cls");
     int data;
